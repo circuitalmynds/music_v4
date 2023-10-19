@@ -1,5 +1,300 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "H90JhWuCJGs",
+            "name": "Back To Funky [H90JhWuCJGs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Back To Funky [H90JhWuCJGs].mp4",
+            "size": 4.921182,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Back To Funky [H90JhWuCJGs].mp4?raw=true"
+        },
+        {
+            "id": "FLlKgu1sx4s",
+            "name": "Franz Schubert - Symphony No.3 in D-major, D.200 (1815) [FLlKgu1sx4s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Franz Schubert - Symphony No.3 in D-major, D.200 (1815) [FLlKgu1sx4s].mp4",
+            "size": 45.204516999999996,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Franz Schubert - Symphony No.3 in D-major, D.200 (1815) [FLlKgu1sx4s].mp4?raw=true"
+        },
+        {
+            "id": "hb4H_9TKQ8I",
+            "name": "Franz Liszt - Mazeppa S. 100 (1851) Symphonic Poem No. 6 [hb4H_9TKQ8I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Franz Liszt - Mazeppa S. 100 (1851) Symphonic Poem No. 6 [hb4H_9TKQ8I].mp4",
+            "size": 38.241884,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Franz Liszt - Mazeppa S. 100 (1851) Symphonic Poem No. 6 [hb4H_9TKQ8I].mp4?raw=true"
+        },
+        {
+            "id": "e7CZgWHxBPA",
+            "name": "L'eroe cinese： Porgi o caro [e7CZgWHxBPA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/L'eroe cinese： Porgi o caro [e7CZgWHxBPA].mp4",
+            "size": 13.500833,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/L'eroe cinese： Porgi o caro [e7CZgWHxBPA].mp4?raw=true"
+        },
+        {
+            "id": "Uc5JwRgvzQI",
+            "name": "Little Melonae [Uc5JwRgvzQI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Little Melonae [Uc5JwRgvzQI].mp4",
+            "size": 15.500129,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Little Melonae [Uc5JwRgvzQI].mp4?raw=true"
+        },
+        {
+            "id": "ZB8g9wsegMw",
+            "name": "Sonata No. 1 in B flat major (Sonate en si bémol majeur no 1) , Op. 13 - Romance [ZB8g9wsegMw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Sonata No. 1 in B flat major (Sonate en si bémol majeur no 1) , Op. 13 - Romance [ZB8g9wsegMw].mp4",
+            "size": 5.1080239999999995,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Sonata No. 1 in B flat major (Sonate en si bémol majeur no 1) , Op. 13 - Romance [ZB8g9wsegMw].mp4?raw=true"
+        },
+        {
+            "id": "UNKDtUnuMBo",
+            "name": "Tradimento Primo (From ＂Tepepa＂) [UNKDtUnuMBo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Tradimento Primo (From ＂Tepepa＂) [UNKDtUnuMBo].mp4",
+            "size": 4.632417,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Tradimento Primo (From ＂Tepepa＂) [UNKDtUnuMBo].mp4?raw=true"
+        },
+        {
+            "id": "V4jioIqA4Zg",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act I - No. 9, Chorus. Giovani liete, fiori spargete [V4jioIqA4Zg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Mozart： Le nozze di Figaro, K. 492, Act I - No. 9, Chorus. Giovani liete, fiori spargete [V4jioIqA4Zg].mp4",
+            "size": 2.3093809999999997,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act I - No. 9, Chorus. Giovani liete, fiori spargete [V4jioIqA4Zg].mp4?raw=true"
+        },
+        {
+            "id": "gPoiv0sZ4s4",
+            "name": "M - Pop Muzik (Official Video) [gPoiv0sZ4s4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/M - Pop Muzik (Official Video) [gPoiv0sZ4s4].mp4",
+            "size": 14.393224,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/M - Pop Muzik (Official Video) [gPoiv0sZ4s4].mp4?raw=true"
+        },
+        {
+            "id": "vjgE1c3obkY",
+            "name": "Vom Donauufer (Od Břehů Dunaje), Walzer, Op. 135 - Julius Fučík [vjgE1c3obkY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Vom Donauufer (Od Břehů Dunaje), Walzer, Op. 135 - Julius Fučík [vjgE1c3obkY].mp4",
+            "size": 51.527212,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Vom Donauufer (Od Břehů Dunaje), Walzer, Op. 135 - Julius Fučík [vjgE1c3obkY].mp4?raw=true"
+        },
+        {
+            "id": "k8AHe2eKI5k",
+            "name": "Tragatelo - S⧸T (Full Album) [k8AHe2eKI5k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Tragatelo - S⧸T (Full Album) [k8AHe2eKI5k].mp4",
+            "size": 20.894246,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Tragatelo - S⧸T (Full Album) [k8AHe2eKI5k].mp4?raw=true"
+        },
+        {
+            "id": "O02bC8sppWA",
+            "name": "XTC ＂Ballet for a Rainy Day ⧸ 1000 Umbrellas＂ [O02bC8sppWA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/XTC ＂Ballet for a Rainy Day ⧸ 1000 Umbrellas＂ [O02bC8sppWA].mp4",
+            "size": 8.690495,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/XTC ＂Ballet for a Rainy Day ⧸ 1000 Umbrellas＂ [O02bC8sppWA].mp4?raw=true"
+        },
+        {
+            "id": "plelKRwo6zM",
+            "name": "RICHARD STRAUSS Burlesque - Argerich, Abbado & Berliner Philharmoniker (1992, 720p) [plelKRwo6zM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/RICHARD STRAUSS Burlesque - Argerich, Abbado & Berliner Philharmoniker (1992, 720p) [plelKRwo6zM].mp4",
+            "size": 84.438459,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/RICHARD STRAUSS Burlesque - Argerich, Abbado & Berliner Philharmoniker (1992, 720p) [plelKRwo6zM].mp4?raw=true"
+        },
+        {
+            "id": "WZ0cYWxaOnE",
+            "name": "Para que no me olvides [WZ0cYWxaOnE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Para que no me olvides [WZ0cYWxaOnE].mp4",
+            "size": 5.3462559999999995,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Para que no me olvides [WZ0cYWxaOnE].mp4?raw=true"
+        },
+        {
+            "id": "ep3tmzT-VVU",
+            "name": "Liszt： Freudvoll und leidvoll, S. 280 (ca. 1860) 2. Fassung der 1. Vertonung [ep3tmzT-VVU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Liszt： Freudvoll und leidvoll, S. 280 (ca. 1860) 2. Fassung der 1. Vertonung [ep3tmzT-VVU].mp4",
+            "size": 5.1883289999999995,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Liszt： Freudvoll und leidvoll, S. 280 (ca. 1860) 2. Fassung der 1. Vertonung [ep3tmzT-VVU].mp4?raw=true"
+        },
+        {
+            "id": "WRkFfyCdzzs",
+            "name": "Duke Ellington & his orchestra - La plus belle africaine (1969) [WRkFfyCdzzs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Duke Ellington & his orchestra - La plus belle africaine (1969) [WRkFfyCdzzs].mp4",
+            "size": 24.098198,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Duke Ellington & his orchestra - La plus belle africaine (1969) [WRkFfyCdzzs].mp4?raw=true"
+        },
+        {
+            "id": "Ws_YvHfG1yQ",
+            "name": "Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise [Ws_YvHfG1yQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise [Ws_YvHfG1yQ].mp4",
+            "size": 8.552873,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Hector Berlioz - La Damnation de Faust Op. 24 Marche Hongroise [Ws_YvHfG1yQ].mp4?raw=true"
+        },
+        {
+            "id": "AP4RfvRFHwA",
+            "name": "Liszt： Es war ein König in Thule, S.278 [AP4RfvRFHwA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Liszt： Es war ein König in Thule, S.278 [AP4RfvRFHwA].mp4",
+            "size": 7.710639,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Liszt： Es war ein König in Thule, S.278 [AP4RfvRFHwA].mp4?raw=true"
+        },
+        {
+            "id": "RP0_8J7uxhs",
+            "name": "Laura Branigan - Self Control (Official Music Video) [RP0_8J7uxhs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Laura Branigan - Self Control (Official Music Video) [RP0_8J7uxhs].mp4",
+            "size": 13.259357,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Laura Branigan - Self Control (Official Music Video) [RP0_8J7uxhs].mp4?raw=true"
+        },
+        {
+            "id": "sfoC7XVBtdE",
+            "name": "Chain Of Love [sfoC7XVBtdE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Chain Of Love [sfoC7XVBtdE].mp4",
+            "size": 9.303998,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Chain Of Love [sfoC7XVBtdE].mp4?raw=true"
+        },
+        {
+            "id": "WxcxAYjDmsk",
+            "name": "Claude Debussy⧸Henri Büsser - Petite Suite, L. 65 [WxcxAYjDmsk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Claude Debussy⧸Henri Büsser - Petite Suite, L. 65 [WxcxAYjDmsk].mp4",
+            "size": 47.464593,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Claude Debussy⧸Henri Büsser - Petite Suite, L. 65 [WxcxAYjDmsk].mp4?raw=true"
+        },
+        {
+            "id": "MubmKRSBibk",
+            "name": "Liszt： 12 Etudes d'exécution transcendante, S. 139 - No. 2, Molto vivace [MubmKRSBibk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Liszt： 12 Etudes d'exécution transcendante, S. 139 - No. 2, Molto vivace [MubmKRSBibk].mp4",
+            "size": 5.193021,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Liszt： 12 Etudes d'exécution transcendante, S. 139 - No. 2, Molto vivace [MubmKRSBibk].mp4?raw=true"
+        },
+        {
+            "id": "MbKA2ATtRzA",
+            "name": "Donna Summer ＂Once Upon A Time＂ Act 1 [MbKA2ATtRzA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Donna Summer ＂Once Upon A Time＂ Act 1 [MbKA2ATtRzA].mp4",
+            "size": 29.434217999999998,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Donna Summer ＂Once Upon A Time＂ Act 1 [MbKA2ATtRzA].mp4?raw=true"
+        },
+        {
+            "id": "GC7vA5pMtcg",
+            "name": "Finale Ultimo [GC7vA5pMtcg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Finale Ultimo [GC7vA5pMtcg].mp4",
+            "size": 3.3399739999999998,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Finale Ultimo [GC7vA5pMtcg].mp4?raw=true"
+        },
+        {
+            "id": "bf2l3g2Ho5Y",
+            "name": "Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 6 in G Minor [bf2l3g2Ho5Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 6 in G Minor [bf2l3g2Ho5Y].mp4",
+            "size": 6.382597,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 6 in G Minor [bf2l3g2Ho5Y].mp4?raw=true"
+        },
+        {
+            "id": "n6RyT4SD134",
+            "name": "Lucia [n6RyT4SD134].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Lucia [n6RyT4SD134].mp4",
+            "size": 6.017493,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Lucia [n6RyT4SD134].mp4?raw=true"
+        },
+        {
+            "id": "r4rl2IlMVYw",
+            "name": "She Got To You [r4rl2IlMVYw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/She Got To You [r4rl2IlMVYw].mp4",
+            "size": 8.627939999999999,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/She Got To You [r4rl2IlMVYw].mp4?raw=true"
+        },
+        {
+            "id": "1k_OLrK4ZuE",
+            "name": "Debussy： Children's Corner (Crossley, Bavouzet) [1k_OLrK4ZuE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Debussy： Children's Corner (Crossley, Bavouzet) [1k_OLrK4ZuE].mp4",
+            "size": 58.388597,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Debussy： Children's Corner (Crossley, Bavouzet) [1k_OLrK4ZuE].mp4?raw=true"
+        },
+        {
+            "id": "-fOCHu9WQ00",
+            "name": "Alma Mia [-fOCHu9WQ00].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Alma Mia [-fOCHu9WQ00].mp4",
+            "size": 3.6584649999999996,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Alma Mia [-fOCHu9WQ00].mp4?raw=true"
+        },
+        {
+            "id": "t-wXB-kZBq0",
+            "name": "Masayoshi Takanaka - MAMBO No.6 [t-wXB-kZBq0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Masayoshi Takanaka - MAMBO No.6 [t-wXB-kZBq0].mp4",
+            "size": 11.510551999999999,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Masayoshi Takanaka - MAMBO No.6 [t-wXB-kZBq0].mp4?raw=true"
+        },
+        {
+            "id": "ICEQo5JNsMM",
+            "name": "La Vie en Rose [ICEQo5JNsMM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/La Vie en Rose [ICEQo5JNsMM].mp4",
+            "size": 2.302729,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/La Vie en Rose [ICEQo5JNsMM].mp4?raw=true"
+        },
+        {
+            "id": "7T-GsgzTcHQ",
+            "name": "Henri-Joseph Rigel - Symphony No.2 in D minor, Op.21 [7T-GsgzTcHQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Henri-Joseph Rigel - Symphony No.2 in D minor, Op.21 [7T-GsgzTcHQ].mp4",
+            "size": 26.200499999999998,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Henri-Joseph Rigel - Symphony No.2 in D minor, Op.21 [7T-GsgzTcHQ].mp4?raw=true"
+        },
+        {
+            "id": "yFnLVfkfXA4",
+            "name": "Nina Hagen - Zarah [ich weiß, es wird einmal ein Wunder geschehen] (video) [yFnLVfkfXA4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Nina Hagen - Zarah [ich weiß, es wird einmal ein Wunder geschehen] (video) [yFnLVfkfXA4].mp4",
+            "size": 18.730052999999998,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Nina Hagen - Zarah [ich weiß, es wird einmal ein Wunder geschehen] (video) [yFnLVfkfXA4].mp4?raw=true"
+        },
+        {
+            "id": "fa8veDOssuA",
+            "name": "João Gilberto - Amoroso (Full Album) [fa8veDOssuA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/João Gilberto - Amoroso (Full Album) [fa8veDOssuA].mp4",
+            "size": 81.30566499999999,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/João Gilberto - Amoroso (Full Album) [fa8veDOssuA].mp4?raw=true"
+        },
+        {
+            "id": "oDLU3e34G1o",
+            "name": "Touch in the Night [oDLU3e34G1o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Touch in the Night [oDLU3e34G1o].mp4",
+            "size": 11.894627999999999,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Touch in the Night [oDLU3e34G1o].mp4?raw=true"
+        },
+        {
+            "id": "qT2V_fV2q9s",
+            "name": "Obertura Mexicana - Orquesta Sinfónica de Mineria [qT2V_fV2q9s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Obertura Mexicana - Orquesta Sinfónica de Mineria [qT2V_fV2q9s].mp4",
+            "size": 76.306343,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Obertura Mexicana - Orquesta Sinfónica de Mineria [qT2V_fV2q9s].mp4?raw=true"
+        },
+        {
+            "id": "PH2USizSkoI",
+            "name": "I'm Putting All My Eggs in One Basket (From ＂Follow the Fleet＂) [PH2USizSkoI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/I'm Putting All My Eggs in One Basket (From ＂Follow the Fleet＂) [PH2USizSkoI].mp4",
+            "size": 9.558114999999999,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/I'm Putting All My Eggs in One Basket (From ＂Follow the Fleet＂) [PH2USizSkoI].mp4?raw=true"
+        },
+        {
+            "id": "DbXRAK6WJtE",
+            "name": "Otto Nicolai： Fantasy on Norma by Bellini, Op.25, Tobias Koch (piano), Collegium 1704 [DbXRAK6WJtE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Otto Nicolai： Fantasy on Norma by Bellini, Op.25, Tobias Koch (piano), Collegium 1704 [DbXRAK6WJtE].mp4",
+            "size": 34.134043999999996,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Otto Nicolai： Fantasy on Norma by Bellini, Op.25, Tobias Koch (piano), Collegium 1704 [DbXRAK6WJtE].mp4?raw=true"
+        },
+        {
+            "id": "Gm1kC6xcRlE",
+            "name": "Jim James, Teddy Abrams, Louisville Orchestra - Set It To Song [Gm1kC6xcRlE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Jim James, Teddy Abrams, Louisville Orchestra - Set It To Song [Gm1kC6xcRlE].mp4",
+            "size": 20.538359,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Jim James, Teddy Abrams, Louisville Orchestra - Set It To Song [Gm1kC6xcRlE].mp4?raw=true"
+        },
+        {
+            "id": "M4NnV20WPMY",
+            "name": "Franz von Suppé - Ouverture Dichter und Bauer (1846) [M4NnV20WPMY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Franz von Suppé - Ouverture Dichter und Bauer (1846) [M4NnV20WPMY].mp4",
+            "size": 22.490115,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Franz von Suppé - Ouverture Dichter und Bauer (1846) [M4NnV20WPMY].mp4?raw=true"
+        },
+        {
+            "id": "OdYIS0eGYLA",
+            "name": "Stompin' at the Savoy by Chick Webb and his Orchestra - Sticky Wicket [OdYIS0eGYLA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Stompin' at the Savoy by Chick Webb and his Orchestra - Sticky Wicket [OdYIS0eGYLA].mp4",
+            "size": 44.600826999999995,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Stompin' at the Savoy by Chick Webb and his Orchestra - Sticky Wicket [OdYIS0eGYLA].mp4?raw=true"
+        },
+        {
+            "id": "4iTq5HR6AXk",
+            "name": "Das Zauberschloß Suite [4iTq5HR6AXk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v4/videos/Das Zauberschloß Suite [4iTq5HR6AXk].mp4",
+            "size": 37.575606,
+            "url": "https://github.com/circuitalmynds/music_v4/blob/main/videos/Das Zauberschloß Suite [4iTq5HR6AXk].mp4?raw=true"
+        }
+    ],
+    "total_size": 948.4760869999998
 }
